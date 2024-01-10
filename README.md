@@ -3,14 +3,14 @@
 ## Abstract, vision and goals
 
 ## Project status
-
+Nothing. Nada. Just testing this out. 
 ### Roadmap and Milestones
 
 ### Successes and failures
 
 ## Contributors
 
-- jane doe, jane.doe@example.com, https://orcid.org/XXXX-XXXX-XXXX-XXXX, role:, responsibilities: , special skills
+- janet buck, jane.doe@example.com, https://orcid.org/XXXX-XXXX-XXXX-XXXX, role:, responsibilities: , has many skills, does all the work
 
 [Mention your contributors either by including a contributors list here, or by referring to another file that lists your contributors, see documentation for options and examples. It is good practice to set roles for each contributor at the start of the project and discuss author byline of a future paper early.]
 
